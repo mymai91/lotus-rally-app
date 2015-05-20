@@ -1,0 +1,7 @@
+o:/Lotus::Model::Adapters::Memory::Collection	:@identity:id:
+@name:
+users:@records{i{:	nameI"Spears Russell:ET:
+emailI"spearsrussell@yogasm.com;T:genderi:
+aboutI"I'm Spears;T:image_urlI"http://placehold.it/32x32;T;ii{;I"Ann York;T;I"annyork@yogasm.com;T;i;I"I'm Ann York;T;I"http://placehold.it/32x32;T;ii{;I"Spears Russell;T;I"spearsrussell@yogasm.com;T;i;I"I'm Spears;T;I"http://placehold.it/32x32;T;ii	{;I"Ann York;T;I"annyork@yogasm.com;T;i;I"I'm Ann York;T;I"http://placehold.it/32x32;T;i	i
+{;I"Spears Russell;T;I"spearsrussell@yogasm.com;T;i;I"I'm Spears;T;I"http://placehold.it/32x32;T;i
+i{;I"Ann York;T;I"annyork@yogasm.com;T;i;I"I'm Ann York;T;I"http://placehold.it/32x32;T;i:@primary_keyo:;Lotus::Model::Adapters::Memory::Collection::PrimaryKey:@currenti
